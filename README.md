@@ -1,6 +1,6 @@
 # Abacus-Class-Record
 
-Abacus is the visual platform that gives teachers perspective on class attendances, assignments, and grades.
+Abacus is a visual platform that gives teachers perspective on class attendances, assignments, and grades.
 
 A working version of the application can be found at [https://react-abacus.herokuapp.com](https://react-abacus.herokuapp.com "ABACUS CLASS RECORD, made with React")
 
